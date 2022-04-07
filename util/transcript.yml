@@ -170,6 +170,8 @@ themes:
     - "#161618,#000000,#FFCD00,#161618,#000010,#FFCD00,#FFDA60,#FFB500,#000010,#FFBC00" # gold
     - "#130F40,#0E0B01,#37ABD2,#130F40,#342E73,#37ABD2,#FFFFFF,#FF5252,#37ABD2,#0E0B01" # blue
     - "#282828,#3C3836,#98971A,#FBF1C7,#3E313C,#EBDBB2,#B8BB26,#FB4934" # gruvbox
+    - "#17171D,#FF0000,#EC3750,#FFFFFF,#252429,#FFFFFF,#33D6A6,#EC3750,#EC3750,#FFFFFF" # Hack Club Light
+    - "#2F3136,#FF0000,#42464C,#FFFFFF,#3C4045,#B3B5BA,#3AA662,#EE324A,#2F3136,#B9BBBE" # Hack Club Dark
 
 # Slack is very picky about audio files– i've only found uploads and previews to work consistently with m4a files
 files:
